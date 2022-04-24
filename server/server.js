@@ -10,5 +10,5 @@ app.use(cors())
 app.use(Event);
 
 app.listen(PORT,()=>{
-    console.log("server rining:",PORT)
+    console.log("server runing:",PORT)
 })
